@@ -28,3 +28,4 @@
 ### Other
 
 - A nice [blog entry](http://www.perrygeo.com/python-affine-transforms.html) by Matthew Perry to understand the concept of affine transform
+- Another [blog entry](https://medium.com/@christoph.k.rieke/essential-geospatial-python-libraries-5d82fcc38731) presenting a detailed overview of the python geospatial stack
